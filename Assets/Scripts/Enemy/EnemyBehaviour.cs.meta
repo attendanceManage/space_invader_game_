@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a08ceecdfb38ea469495665b36fe552
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioEnemy: {instanceID: 0}
+  - enemy: {fileID: 3871865298318731700, guid: 37a0e3e247e65084c9c6d9e3ee360774, type: 3}
+  - enemyProjectile: {fileID: 3871865298318731700, guid: bacd5ca4edae59d4f9ff8e632ddf7112,
+      type: 3}
+  - enemyProjectileClone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

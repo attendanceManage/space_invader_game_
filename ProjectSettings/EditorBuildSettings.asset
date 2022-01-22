@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: 8a0ea30b61edccc4e90e6f6021589d7f
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: a6f852b2ec88d7c4cb7f12be2a8750f1
+  - enabled: 1
+    path: Assets/Scenes/SpaceInvaders.unity
+    guid: 4ddb475e772d40d47b15c36466e70a08
+  - enabled: 1
+    path: Assets/Scenes/LostScreen.unity
+    guid: 7cf4811ede6ca42418596f043019f212
+  m_configObjects: {}
